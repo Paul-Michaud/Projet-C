@@ -1,0 +1,22 @@
+30:21
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x        x                   x
+x        x                   x
+x        x                   x
+x        x     xxx      x    x
+x        x     x        x    x
+x              x  x     x    x
+x        x     x Ex     x    x
+xxxxxxxxxx     xxxxxxxxxx    x
+x                            x
+x                            x
+x                            x
+x      xxxxxxxxxxxxxxxxxxxxxxx
+x                      D     x
+x        1             x     x
+x       121        x   x     x
+x x x  12321       x         x
+x   x   121        x         x
+x   x    1         x         x
+x   x                        x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
